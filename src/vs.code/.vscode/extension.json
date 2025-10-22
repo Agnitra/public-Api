@@ -1,0 +1,4 @@
+
+module.exports = {
+  "recommendations": ["ritwickdey.LiveServer"]
+};
